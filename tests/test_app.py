@@ -1,4 +1,4 @@
-from predict import predict
+from app.predict import predict
 
 
 def test_predict_returns_valid_class_id():
